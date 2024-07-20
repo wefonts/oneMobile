@@ -1,1 +1,54 @@
 # oneMobile
+원스토어 모바일 고딕 본문체
+
+<pre>
+@font-face {
+    font-family: "oneMobile";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Light.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "oneMobile";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Regular.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Regular.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Regular.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Regular.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Regular.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "oneMobile";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/oneMobile/oneMobile-Bold.ttf") format("truetype");
+    font-display: swap;
+} 
+
+.oneMobile {
+    font-family: "oneMobile";
+}
+.oneMobile300 {
+    font-family: "oneMobile";
+    font-weight: 300;
+}
+.oneMobile400 {
+    font-family: "oneMobile";
+    font-weight: 400;
+}
+.oneMobile700 {
+    font-family: "oneMobile";
+    font-weight: 700;
+}
+</pre>
